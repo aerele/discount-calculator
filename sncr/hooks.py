@@ -78,8 +78,7 @@ app_license = "MIT"
 # Document Events
 # ---------------
 # Hook on document methods and events
-
- doc_events = {
+doc_events = {
  	"*": {
 	
 	},
