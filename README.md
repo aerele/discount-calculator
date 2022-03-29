@@ -1,0 +1,7 @@
+## Sncr
+
+sncr
+
+#### License
+
+MIT
